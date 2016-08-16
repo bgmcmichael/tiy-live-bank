@@ -18,6 +18,7 @@ public class Assignment6Runner {
     }
 
     public static void main(String[] args) {
+        System.out.println("ALL YOUR BASE ARE BELONG TO US!");
         System.out.println("Running ... with " + args.length + " arguments");
 
         String commandLineBankName = "Default Bank Name"; 
